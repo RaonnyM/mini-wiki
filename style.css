@@ -1,0 +1,18 @@
+h1 {
+  color: black;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(246, 246, 162);
+}
+
+img {
+  width: 200px;
+  border-radius: 20px;
+}/*# sourceMappingURL=style.css.map */
