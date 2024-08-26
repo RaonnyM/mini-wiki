@@ -1,5 +1,6 @@
 h1 {
   color: black;
+  font-family: "Cinzel", serif;
 }
 
 * {
@@ -15,4 +16,21 @@ body {
 img {
   width: 200px;
   border-radius: 20px;
+}
+
+.tituloMUSICAS {
+  color: rgb(0, 0, 0);
+  font-family: "Cinzel", serif;
+}
+
+ol {
+  background-color: rgba(255, 255, 224, 0.4823529412);
+}
+
+p {
+  background-color: rgba(255, 255, 224, 0.4823529412);
+}
+
+a {
+  color: black;
 }/*# sourceMappingURL=style.css.map */
